@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 7dc729d0-7b35-4eda-84dd-a640e1acab19)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 95.885 34.925) (size 28.575 37.465) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0beeb928-eabc-4e0a-b5f9-c1c2c6c9ff4b)
+    (property "Sheetname" "sample2" (at 95.885 34.2134 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "sample2.kicad_sch" (at 95.885 72.9746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "el0001-driver-interface"
+        (path "/7dc729d0-7b35-4eda-84dd-a640e1acab19" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 53.34 34.925) (size 30.48 37.465) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c1a4cc08-9bd7-4ec9-8cda-e167310b6431)
+    (property "Sheetname" "sample1" (at 53.34 34.2134 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "sample1.kicad_sch" (at 53.34 72.9746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "el0001-driver-interface"
+        (path "/7dc729d0-7b35-4eda-84dd-a640e1acab19" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
