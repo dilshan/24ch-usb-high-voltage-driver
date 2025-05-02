@@ -66,5 +66,5 @@ Result: `ELECT10`
 
 ----
 
-*Input  buffer  size  (max): OFF=xxxxxxxx : **14**
-*Output  buffer  size  (max): **10**
+* Input  buffer  size  (max): OFF=xxxxxxxx : **14**
+* Output  buffer  size  (max): **10**
