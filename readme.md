@@ -1,5 +1,7 @@
 ## 24-Channel USB high voltage driver
 
+![Prototype build of the 24-channel USB high voltage driver.](https://raw.githubusercontent.com/dilshan/24ch-usb-high-voltage-driver/refs/heads/main/resources/24ch-relay-driver.jpg)
+
 This project is a compact, driver-free USB module designed for high-voltage, medium-current output. It emphasizes ease of use, reliability, and flexibility for various control and automation applications. This module offers the following features:
 
 - **24 independent high-voltage outputs:** Each output channel is controlled using TPIC6B595 shift registers, which provide the capability for high-voltage and medium-current switching.
