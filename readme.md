@@ -16,6 +16,6 @@ This is an open hardware project, and the repository includes the [schematic](ht
 
 This is a an open-source hardware project. All the design files, documentation, firmware source code are available to download at the project source repository. All the content of this project are distributed under the terms of the following license:
 
- - Hardware license: [CERN-OHL-W](https://opensource.org/CERN-OHL-W)
+ - Hardware license: [CERN-OHL-W](https://opensource.org/license/cern-ohl-w)
  - Software license: [MIT License](https://github.com/dilshan/24ch-usb-high-voltage-driver/blob/main/LICENSE)
  - [Documentation](https://github.com/dilshan/24ch-usb-high-voltage-driver/wiki) license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
