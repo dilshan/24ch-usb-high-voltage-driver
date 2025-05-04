@@ -12,10 +12,10 @@ This project is a compact, driver-free USB module designed for high-voltage, med
 
 - **Device driver-free operation:** The module is recognized as a standard USB serial device (based on [CH340N](https://aitendo3.sakura.ne.jp/aitendo_data/product_img/ic/inteface/CH340N/ch340n.pdf)), meaning it requires no additional driver installation on most operating systems.
 
-This is an open hardware project, and the repository includes the schematic, PCB design, firmware source code, and compiled firmware for this project. The complete [documentation](https://github.com/dilshan/24ch-usb-high-voltage-driver/wiki) for this project is available in the [wiki section](https://github.com/dilshan/24ch-usb-high-voltage-driver/wiki) of this repository. It includes all necessary details for producing the PCB, compiling and uploading the firmware, the command set, and more.
+This is an open hardware project, and the repository includes the [schematic](https://github.com/dilshan/24ch-usb-high-voltage-driver/blob/main/design/24-ch-relay-driver-kicad.pdf), PCB design, firmware source code, and [compiled firmware](https://github.com/dilshan/24ch-usb-high-voltage-driver/releases) for this project. The complete [documentation](https://github.com/dilshan/24ch-usb-high-voltage-driver/wiki) for this project is available in the [wiki section](https://github.com/dilshan/24ch-usb-high-voltage-driver/wiki) of this repository. It includes all necessary details for producing the PCB, compiling and uploading the firmware, the command set, and more.
 
 This is a an open-source hardware project. All the design files, documentation, firmware source code are available to download at the project source repository. All the content of this project are distributed under the terms of the following license:
 
- - Hardware License: [CERN-OHL-W](https://opensource.org/CERN-OHL-W)
- - Software License: [MIT License](https://github.com/dilshan/24ch-usb-high-voltage-driver/blob/main/LICENSE)
- - [Documentation](https://github.com/dilshan/24ch-usb-high-voltage-driver/wiki) License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+ - Hardware license: [CERN-OHL-W](https://opensource.org/CERN-OHL-W)
+ - Software license: [MIT License](https://github.com/dilshan/24ch-usb-high-voltage-driver/blob/main/LICENSE)
+ - [Documentation](https://github.com/dilshan/24ch-usb-high-voltage-driver/wiki) license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
