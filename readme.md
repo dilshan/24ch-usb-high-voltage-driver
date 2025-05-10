@@ -20,4 +20,4 @@ This is a [certified open-source hardware project](https://certification.oshwa.o
  - Software license: [MIT License](https://github.com/dilshan/24ch-usb-high-voltage-driver/blob/main/LICENSE)
  - [Documentation](https://github.com/dilshan/24ch-usb-high-voltage-driver/wiki) license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
  
- ![LK000015](https://raw.githubusercontent.com/dilshan/24ch-usb-high-voltage-driver/refs/heads/main/resources/LK000015.png)
+ [![LK000015](https://raw.githubusercontent.com/dilshan/24ch-usb-high-voltage-driver/refs/heads/main/resources/LK000015.png)](https://certification.oshwa.org/lk000015.html)
